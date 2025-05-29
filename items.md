@@ -7,7 +7,7 @@
 - **드랍률:** 매우 희귀 (데스나이트 보스 한정 드랍)
 
 ### 집행검
-![집행검](https://static.inven.co.kr/image_2011/game/item/lineage/weapon/JipHaengSword.png)
+![집행검](https://static.inven.co.kr/image_2011/game/item/lineage/weapon/JipHaengSword.png
 - **종류:** 무기
 - **주요효과:** 최상위 양손검, 매우 높은 데미지
 - **데미지:** 30~33
