@@ -24,7 +24,7 @@
 ![마법사의 모자](https://static.inven.co.kr/image_2011/game/item/lineage/armor/WizardHat.png)
 - **종류:** 방어구(모자)
 - **주요효과:** 마법력 상승, 마나 회복력 증가
-- **주요 능력치:** SP +2, MP 회복 +2
+- **주요 능력치:** SP +3, MP 회복 +3
 - **드랍률:** 낮음 (보스/이벤트/상점)
 
 ### 용의 심장
