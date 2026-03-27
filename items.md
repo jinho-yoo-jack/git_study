@@ -1,3 +1,4 @@
+
 ## 리니지M 아이템 목록
 ### 데스나이트의 검
 ![데스나이트의 검](https://static.inven.co.kr/image_2011/game/item/lineage/weapon/Death_Knight_Sword.png)
@@ -24,7 +25,7 @@
 ![마법사의 모자](https://static.inven.co.kr/image_2011/game/item/lineage/armor/WizardHat.png)
 - **종류:** 방어구(모자)
 - **주요효과:** 마법력 상승, 마나 회복력 증가
-- **주요 능력치:** SP +2, MP 회복 +2
+- **주요 능력치:** SP +3, MP 회복 +3
 - **드랍률:** 낮음 (보스/이벤트/상점)
 
 ### 용의 심장
@@ -46,7 +47,7 @@
 - **종류:** 소모품
 - **주요효과:** 방어구 강화 성공률 증가
 - **방어력:** 해당 없음
-- **드랍률:** 낮음 (보스/이벤트/상점)
+- **드랍률:** 높음 (보스/이벤트/상점)
 
 ### 반지 오브 조력자
 ![반지 오브 조력자](https://static.inven.co.kr/image_2011/game/item/lineage/accessory/HelperRing.png)
